@@ -23,13 +23,13 @@ https://github.com/user-attachments/assets/1ec812a0-10cf-436d-b880-b3a1425c8d7a
  
  <h2>🎨 Features</h2>
  <ul>
-   <li>✅ Add Job Application</li>
-   <li>✅ Delete and Edit Job Application</li>
-  <li>✅ Application Status Filtering (Pending, Accepted, Rejected)</li>
-     <li>✅ Notification System (Success, Error and Warning Messages)</li>
-  <li><✅ API Integration/li>
-     <li>✅ Date Filtering</li>
-  <li>✅ User Friendly Interface</li>
-     <li>✅ Mobile and Tablet Compatible Design (Responsive Design)</li>
+   <li>Add Job Application</li>
+   <li>Delete and Edit Job Application</li>
+   <li>Application Status Filtering (Pending, Accepted, Rejected)</li>
+   <li>Notification System (Success, Error and Warning Messages)</li>
+   <li>API Integration</li>
+     <li>Date Filtering</li>
+  <li>User Friendly Interface</li>
+     <li>Mobile and Tablet Compatible Design (Responsive Design)</li>
 
  </ul> 
